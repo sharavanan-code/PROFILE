@@ -59,7 +59,7 @@ export default function Navbar() {
             ))}
           </ul>
 <a
-  href="/sharavana_resumes(real_use).pdf"
+  href="/sharavanan.pdf"
   download
   className="
   px-5
